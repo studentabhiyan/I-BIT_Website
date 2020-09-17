@@ -109,6 +109,10 @@ a:hover, a:active {
   background: rgba(0, 188, 209, 0.9);
 }
 
+.text-hover:hover {
+  color: #6824b5;
+}
+
 .bg-theme-80 {
   background: rgba(0, 188, 209, 0.8);
 }
