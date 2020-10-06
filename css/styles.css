@@ -109,10 +109,6 @@ a:hover, a:active {
   background: rgba(0, 188, 209, 0.9);
 }
 
-li:hover {
-  color: #6824b5;
-}
-
 .bg-theme-80 {
   background: rgba(0, 188, 209, 0.8);
 }
@@ -187,6 +183,10 @@ li:hover {
 
 .list-style-5.no-list-style li:before {
   content: none;
+}
+
+a:hover {
+  color: #6824b5;
 }
 
 .list-style-none li {
@@ -462,7 +462,7 @@ a.butn.white:hover, a.butn.white:active {
 ====================================== */
 /*home-slider*/
 .main-slider {
-  height: 900px;
+  height: 1080px;
 }
 
 .main-slider * {

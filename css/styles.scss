@@ -109,9 +109,7 @@ a {
 .bg-theme-90 {
   background: rgba(0, 188, 209, 0.9);
 }
-li:hover{
-  color: $PrimaryColor;
-}
+
 .bg-theme-80 {
   background: rgba(0, 188, 209, 0.8);
 }
@@ -188,7 +186,9 @@ li:hover{
     content: none;
   }
 }
-
+a:hover{
+  color: $PrimaryColor;
+}
 .list-style-none li {
   list-style: none;
 }
@@ -462,7 +462,7 @@ a.butn.white {
 
 /*home-slider*/
 .main-slider {
-  height: 900px;
+  height: 1080px;
   * {
     height: 100%;
   }  

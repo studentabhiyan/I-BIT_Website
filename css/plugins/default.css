@@ -42,7 +42,7 @@ Table of contents
 body{ font-family: 'Open Sans', sans-serif; -webkit-font-smoothing: antialiased;  font-smoothing: antialiased; font-size:15px; color:#6f6f6f; font-weight: 400;line-height: 26px; }
 body, html { -moz-osx-font-smoothing: grayscale; }
 a, a:active, a:focus { color: #6f6f6f; text-decoration: none; transition-timing-function: ease-in-out; -ms-transition-timing-function: ease-in-out; -moz-transition-timing-function: ease-in-out; -webkit-transition-timing-function: ease-in-out; -o-transition-timing-function: ease-in-out; transition-duration: .2s; -ms-transition-duration: .2s; -moz-transition-duration: .2s; -webkit-transition-duration: .2s; -o-transition-duration: .2s;  }
-a:hover, a:active{color: #232323; text-decoration: none;}
+a:hover, a:active{color:#6824b5 ; text-decoration: none;}
 a:focus, a:active, button:focus, button:active,.btn.active.focus, .btn.active:focus, .btn.focus, .btn:active.focus, .btn:active:focus, .btn:focus {outline: none;}
 img {max-width:100%; height:auto; }
 input, textarea, select{ border: 1px solid #d1d1d1; font-size: 14px;  padding: 8px 15px; width: 100%; margin: 0 0 15px 0; max-width: 100%; resize: none;}
@@ -391,6 +391,7 @@ section {padding: 90px 0; overflow: hidden; background: #fff;}
 .line-break { display:block;}
 .no-transition *  { transition-timing-function: none; -moz-transition-timing-function: none; -webkit-transition-timing-function: none; -o-transition-timing-function: none; -ms-transition-timing-function: none; transition-duration: 0s; -moz-transition-duration: 0s; -webkit-transition-duration: 0s; -o-transition-duration: 0s; -ms-transition-duration: 0s; }
 .absolute-middle-center {left: 50%; top: 50%; position: absolute; -ms-transform: translateX(-50%) translateY(-50%); -moz-transform: translateX(-50%) translateY(-50%); -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); -o-transform: translateX(-50%) translateY(-50%); }
+.absolute-middle-top {left: 50%; top: 0%; position: relative; -ms-transform: translateX(-50%) translateY(-30%); -moz-transform: translateX(-50%) translateY(-30%); -webkit-transform: translateX(-50%) translateY(-30%); transform: translateX(-50%) translateY(-30%); -o-transform: translateX(-50%) translateY(-30%); }
 
 /* ===================================
     Border
