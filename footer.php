@@ -20,8 +20,8 @@
                             <h3 class="font-size15 sm-font-size14 xs-font-size13 margin-30px-bottom md-margin-25px-bottom xs-margin-20px-bottom font-weight-700 text-uppercase letter-spacing-3">University Address</h3>
                             <ul class="list-style-1 no-margin">
                                 <li>
-                                    <span class="d-inline-block vertical-align-top font-size28"><a href="https://www.google.co.th/maps/place/Kmutnb/@13.8187085,100.5120639,17z/data=!3m1!4b1!4m5!3m4!1s0x30e29b588ab8f9c5:0xda418c067a18bd5d!8m2!3d13.8187033!4d100.5142526?hl=en&authuser=0" target="_blank"><i class="fas fa-map-marker-alt text-theme-color"></i></a></span>
-                                    <a href="https://www.google.co.th/maps/place/Kmutnb/@13.8187085,100.5120639,17z/data=!3m1!4b1!4m5!3m4!1s0x30e29b588ab8f9c5:0xda418c067a18bd5d!8m2!3d13.8187033!4d100.5142526?hl=en&authuser=0" target="_blank"><span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">1518 Pracharat 1 Road,Wongsawang, Bangsue,Bangkok 10800</span></a>
+                                    <span class="d-inline-block vertical-align-top font-size28"><a href="https://www.google.com/maps/place/Faculty+of+Information+Technology+and+Digital+Innovation,+KMUTNB/@13.818995,100.5133409,18z/data=!4m5!3m4!1s0x30e29be435a11eeb:0xf96e26400481e7ec!8m2!3d13.8194867!4d100.5137309" target="_blank"><i class="fas fa-map-marker-alt text-theme-color"></i></a></span>
+                                    <a href="https://www.google.com/maps/place/Faculty+of+Information+Technology+and+Digital+Innovation,+KMUTNB/@13.818995,100.5133409,18z/data=!4m5!3m4!1s0x30e29be435a11eeb:0xf96e26400481e7ec!8m2!3d13.8194867!4d100.5137309" target="_blank"><span class="d-inline-block width-65 sm-width-85 vertical-align-top padding-10px-left">Nawamintararachinee Building, KMUTNB, Wong Sawang, Bang Sue, Bangkok 10800</span></a>
                                 </li>
 
                             </ul>
@@ -62,7 +62,7 @@
                         </ul>
                     </div>
                     <div class="float-left xs-width-100 text-center">
-                        <p class="text-medium-gray font-weight-600 margin-5px-top xs-no-margin-top">&copy; 2018 Septosha is Powered by Chitrakoot Web</p>
+                        <p class="text-medium-gray font-weight-600 margin-5px-top xs-no-margin-top">&copy; I-BIT 2019 is Powered by KMUTNB</p>
                     </div>
                 </div>
             </div>

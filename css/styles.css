@@ -53,41 +53,40 @@
   display: table-cell;
   vertical-align: middle;
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
 
+/*
 .loader-icon {
   width: 80px;
   height: 80px;
-  border: 5px solid #6824b5;
+  border: 5px solid $PrimaryColor;
   border-right-color: #eee;
   border-radius: 50%;
   position: relative;
-  -webkit-animation: loader-rotate 1s linear infinite;
-          animation: loader-rotate 1s linear infinite;
+  animation: 2s;
   margin: 0 auto;
 }
-
+*/
 @-webkit-keyframes loader-rotate {
   0% {
     -webkit-transform: rotate(0);
             transform: rotate(0);
   }
   100% {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
   }
 }
-
 @keyframes loader-rotate {
   0% {
     -webkit-transform: rotate(0);
             transform: rotate(0);
   }
   100% {
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
+    -webkit-transform: rotate(0deg);
+            transform: rotate(0deg);
   }
 }
 

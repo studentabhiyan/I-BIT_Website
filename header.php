@@ -77,20 +77,20 @@
         </div>
     </div>
 </div>
-
-    <div class="container bg-light-gray">
+<div class = "container">
 
         <div class="menu_area alt-font">
             <nav class="navbar navbar-expand-lg  no-padding">
                 <div class="navbar-toggler"></div>
-
+                
                 <!-- Menu Area -->
-                <ul class="navbar-nav" id="nav" style="display: none;">
+                <ul class="navbar-nav" id="nav">
                     <li><a href="index02.php">Home</a></li>
                     <li><a href="about.html">About</a>
                         <ul>
                             <li><a href="our-faculty.html">Our Faculty</a></li>
                             <li><a href="lab-equipments.html">Lab and Equipments</a></li>
+                            <li><a href="about.html">About Us</a></li>
                         </ul>
                         </li>
                     <li><a href="curriculum.html">Curriculum</a>
@@ -128,28 +128,29 @@
                     <li><a href="contact.html">Contact Us</a></li>
                 </ul>
                 <!-- End Menu Area -->
-
                 <!-- Start Atribute Navigation -->
-                <div class="attr-nav sm-no-margin sm-margin-40px-right ml-auto no-margin-right">
-                    <ul class="search">
-                        <li class="search"><a href="javascript:void(0)"><i class="fas fa-search text-theme-color font-size18 margin-10px-top sm-no-margin-top"></i></a></li>
-                    </ul>
-                    <ul class="top-nav-area border-left sm-no-border">
-                        <li class="dropdown sm-no-margin-right">
-                            <a href="#appointment" class="butn appointment">
-                                <i class="far fa-calendar-plus font-size22 margin-5px-right sm-no-margin-right vertical-align-middle"></i> <span class="alt-font vertical-align-middle sm-display-none">Enquire now</span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
+                    <div class="attr-nav sm-no-margin sm-margin-40px-right ml-auto no-margin-right">
+                        <ul class="search">
+                            <li class="search"><a href="javascript:void(0)"><i class="fas fa-search font-size18 margin-10px-top sm-no-margin-top"></i></a></li>
+                        </ul>
+                        <ul class="top-nav-area border-left sm-no-border">
+                            <li class="dropdown sm-no-margin-right">
+                                <a href="#appointment" class="butn appointment">
+                                    <i class="far fa-calendar-plus font-size22 margin-5px-right sm-no-margin-right vertical-align-middle"></i> <span class="alt-font vertical-align-middle sm-display-none">Enquire now</span>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+               
                 <!-- End Atribute Navigation -->
 
             </nav>
         </div>
 
-    </div>
+   
 
 </div>
+
 
 <div id="appointment" class="mfp-hide appointment-popup bg-white border border-width-10">
 

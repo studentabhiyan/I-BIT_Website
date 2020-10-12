@@ -39,7 +39,7 @@
     <!-- start page loading -->
     <div id="preloader">
         <div class="row loader">
-            <div class="loader-icon"><img id="logo" src="logo.png" alt="logo"></div>
+            <div class="loader-icon"><img id="logo" src="logo1.png" alt="logo"></div>
         </div>
     </div>
     <!-- end page loading -->

@@ -67,10 +67,10 @@ $mobile-xs-screen: 480px;
   display: table-cell;
   vertical-align: middle;
   position: relative;
-  width: 200px;
-  height: 200px;
+  width: 100px;
+  height: 100px;
 }
-
+/*
 .loader-icon {
   width: 80px;
   height: 80px;
@@ -78,17 +78,17 @@ $mobile-xs-screen: 480px;
   border-right-color: #eee;
   border-radius: 50%;
   position: relative;
-  animation: loader-rotate 1s linear infinite;
+  animation: 2s;
   margin: 0 auto;
 }
-
+*/
 @keyframes loader-rotate {
   0% {
     transform: rotate(0);
   }
 
   100% {
-    transform: rotate(360deg);
+    transform: rotate(0deg);
   }
 }
 
