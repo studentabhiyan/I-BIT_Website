@@ -25,9 +25,9 @@
 
                 <div class="navbar-header navbar-header-custom row">
 
-                    <div class="col-xl-3 col-lg-3 bg-white">
+                    <div class="col-xl-3 col-lg-3 bg-theme">
                         <!-- Start Logo -->
-                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px"><img id="logo" src="logo1.png" alt="logo"></a>
+                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px text-theme-color-white"><img id="logo" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.15752-9/121120183_355156975798653_7255854629753790170_n.png?_nc_cat=101&_nc_sid=ae9488&_nc_eui2=AeGTXxTZz2k6Qj186UI5KvGKKFI3OEYy9RcoUjc4RjL1FzIaVgoSquIwCwhxU2dNkDMannls3u_5mRMceddcPxJo&_nc_ohc=cdSXI1hQFnMAX_EqzvP&_nc_ht=scontent.fbkk5-6.fna&oh=c8ac8a030bcbd4a484cb79481b643631&oe=5FACEFF0" alt="logo"></a>
                         <!-- End Logo -->
                     </div>
 
@@ -77,7 +77,7 @@
         </div>
     </div>
 </div>
-<div class = "container">
+<div class = "container bg-theme">
 
         <div class="menu_area alt-font">
             <nav class="navbar navbar-expand-lg  no-padding">

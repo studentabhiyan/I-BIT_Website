@@ -39,7 +39,7 @@
     <!-- start page loading -->
     <div id="preloader">
         <div class="row loader">
-            <div class="loader-icon"><img id="logo" src="logo1.png" alt="logo"></div>
+            <div class="loader-icon"><img id="logo" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.15752-9/121120183_355156975798653_7255854629753790170_n.png?_nc_cat=101&_nc_sid=ae9488&_nc_eui2=AeGTXxTZz2k6Qj186UI5KvGKKFI3OEYy9RcoUjc4RjL1FzIaVgoSquIwCwhxU2dNkDMannls3u_5mRMceddcPxJo&_nc_ohc=cdSXI1hQFnMAX_EqzvP&_nc_ht=scontent.fbkk5-6.fna&oh=c8ac8a030bcbd4a484cb79481b643631&oe=5FACEFF0" alt="logo"></div>
         </div>
     </div>
     <!-- end page loading -->
@@ -70,7 +70,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="text-center item cover-background bg-img" data-overlay-dark="6" data-background="img/banner/slide2.jpg">
+                    <div class="text-center item cover-background bg-img" data-overlay-dark="6" data-background="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/117186782_1208163889521534_7659746472222419106_o.jpg?_nc_cat=107&_nc_sid=0debeb&_nc_eui2=AeHGWhptBVflTuUm4f8zRwZg1Kdwau10thPUp3Bq7XS2EzCnuQyr7poGWHEJjtjUG6dTdO2Wjjr3Ig7rzrAx7qIr&_nc_ohc=iEqWfzTwwPYAX-qI-eW&_nc_ht=scontent.fbkk5-7.fna&oh=b3c42ec5e3ab12059eb71781b4c2effc&oe=5FADB4E4">
                         <div class="absolute-middle-center caption">
                             <div class="overflow-hidden">
                                 <h3 class="alt-font font-size28 sm-font-size18 text-white no-margin">We provide</h3>
@@ -82,7 +82,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="text-center item cover-background bg-img" data-overlay-dark="6" data-background="img/banner/slide3.jpg">
+                    <div class="text-center item cover-background bg-img" data-overlay-dark="6" data-background="https://scontent.fbkk5-7.fna.fbcdn.net/v/t1.0-9/117706740_1208164016188188_4465646748180878537_o.jpg?_nc_cat=108&_nc_sid=0debeb&_nc_eui2=AeEa_LDAMLi9PRf6T3OvLbavfhgiIScv2K5-GCIhJy_YrpNxuRUHYty9nxjr-8NErg4cla_QO04kEE43q1sxv1hD&_nc_ohc=LQIcmfKe7ecAX_mRQLz&_nc_ht=scontent.fbkk5-7.fna&oh=469407cc5e9cb35ebe3d0a368a9d2aa6&oe=5FADF5F3">
                         <div class="absolute-middle-center caption">
                             <div class="overflow-hidden">
                                 <h3 class="alt-font font-size28 sm-font-size18 text-white no-margin">We teach our students</h3>
