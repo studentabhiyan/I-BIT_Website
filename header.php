@@ -77,7 +77,7 @@
         </div>
     </div>
 </div>
-<div class = "container bg-theme">
+<div class = "container">
 
         <div class="menu_area alt-font">
             <nav class="navbar navbar-expand-lg  no-padding">
