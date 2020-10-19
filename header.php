@@ -25,9 +25,9 @@
 
                 <div class="navbar-header navbar-header-custom row">
 
-                    <div class="col-xl-3 col-lg-3 bg-white">
+                    <div class="col-xl-3 col-lg-3 bg-theme">
                         <!-- Start Logo -->
-                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px text-theme-color-white"><img id="logo" src="https://scontent.fbkk5-6.fna.fbcdn.net/v/t1.15752-9/121120183_355156975798653_7255854629753790170_n.png?_nc_cat=101&_nc_sid=ae9488&_nc_eui2=AeGTXxTZz2k6Qj186UI5KvGKKFI3OEYy9RcoUjc4RjL1FzIaVgoSquIwCwhxU2dNkDMannls3u_5mRMceddcPxJo&_nc_ohc=cdSXI1hQFnMAX_EqzvP&_nc_ht=scontent.fbkk5-6.fna&oh=c8ac8a030bcbd4a484cb79481b643631&oe=5FACEFF0" alt="logo"></a>
+                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px text-theme-color-white"><img id="logo" src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.15752-9/121234263_359357682071455_8383268791330682188_n.png?_nc_cat=105&_nc_sid=ae9488&_nc_eui2=AeGNxvZaDP-Ut8Jabaqx6Ye3XEtICwNs4EhcS0gLA2zgSJ8BTzf6-et_VELevZUiuGnt0NcxXdbAZnEJrdEqT9Fl&_nc_ohc=z9NIY_1kcS4AX9UpdxB&_nc_ht=scontent.fbkk5-3.fna&oh=10220dd142f10bab01eff35e6ef4e97f&oe=5FAB9FF6" alt="logo"></a>
                         <!-- End Logo -->
                     </div>
 
