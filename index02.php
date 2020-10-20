@@ -5,18 +5,19 @@
 
     <!-- metas -->
     <meta charset="utf-8">
-    <meta name="author" content="ChitrakootWeb" />
+    <meta name="author" content="KMUTNB Students" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="Septosha Medical Health Care Template" />
-    <meta name="description" content="Septosha - Medical Health Care Template" />
+    <meta name="keywords" content="I-BIT" />
+    <meta name="description" content="I-BIT" />
 
     <!-- title  -->
     <title>I-BIT</title>
 
     <!-- favicon -->
-    <!--
-    <link rel="shortcut icon" href="img/logos/favicon.png" />
+ 
+    <link rel="shortcut icon" href="img/logos/ibit.png" />
+       <!--
     <link rel="apple-touch-icon" href="img/logos/apple-touch-icon-57x57.png" />
     <link rel="apple-touch-icon" sizes="72x72" href="img/logos/apple-touch-icon-72x72.png" />
     <link rel="apple-touch-icon" sizes="114x114" href="img/logos/apple-touch-icon-114x114.png" />
