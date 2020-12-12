@@ -40,7 +40,7 @@
     <!-- start page loading -->
     <div id="preloader">
         <div class="row loader">
-         <div class="loader-icon"><img id="logo" src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.15752-9/121234263_359357682071455_8383268791330682188_n.png?_nc_cat=105&_nc_sid=ae9488&_nc_eui2=AeGNxvZaDP-Ut8Jabaqx6Ye3XEtICwNs4EhcS0gLA2zgSJ8BTzf6-et_VELevZUiuGnt0NcxXdbAZnEJrdEqT9Fl&_nc_ohc=z9NIY_1kcS4AX9UpdxB&_nc_ht=scontent.fbkk5-3.fna&oh=10220dd142f10bab01eff35e6ef4e97f&oe=5FAB9FF6" alt="logo"></div>
+         <div class="loader-icon"><img id="logo" src="img/logos/iblogo.png" alt="logo"></div>
              <!--   <div class="loader-icon"><img id="logo" src="https://vignette.wikia.nocookie.net/disneyfanon/images/7/7d/Eeyore-0.png/revision/latest?cb=20200704035629" alt="logo"></div>-->
         </div>
     </div>
