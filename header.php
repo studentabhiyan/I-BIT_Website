@@ -27,7 +27,7 @@
 
                     <div class="col-xl-3 col-lg-3 bg-theme">
                         <!-- Start Logo -->
-                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px text-theme-color-white"><img id="logo" src="https://scontent.fbkk5-3.fna.fbcdn.net/v/t1.15752-9/121234263_359357682071455_8383268791330682188_n.png?_nc_cat=105&_nc_sid=ae9488&_nc_eui2=AeGNxvZaDP-Ut8Jabaqx6Ye3XEtICwNs4EhcS0gLA2zgSJ8BTzf6-et_VELevZUiuGnt0NcxXdbAZnEJrdEqT9Fl&_nc_ohc=z9NIY_1kcS4AX9UpdxB&_nc_ht=scontent.fbkk5-3.fna&oh=10220dd142f10bab01eff35e6ef4e97f&oe=5FAB9FF6" alt="logo"></a>
+                        <a href="index02.php" class="navbar-brand width-100 sm-width-180px xs-width-150px text-theme-color-white"><img id="logo" src="img/logos/iblogo.png" alt="logo"></a>
                         <!-- End Logo -->
                     </div>
 
@@ -80,67 +80,72 @@
 <div class = "container">
 
         <div class="menu_area alt-font">
-            <nav class="navbar navbar-expand-lg  no-padding">
+            <nav class="navbar navbar-expand-lg  no-padding" style="background-color:white">
                 <div class="navbar-toggler"></div>
-                
-                <!-- Menu Area -->
-                <ul class="navbar-nav" id="nav">
-                    <li><a href="index02.php">Home</a></li>
-                    <li><a href="about.html">About</a>
-                        <ul>
-                            <li><a href="our-faculty.html">Our Faculty</a></li>
-                            <li><a href="lab-equipments.html">Lab and Equipments</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                        </ul>
-                        </li>
-                    <li><a href="curriculum.html">Curriculum</a>
-                        <ul>
-                            <li><a href="academic-year-1.html">Academic year-1</a></li>
-                            <li><a href="academic-year-2.html">Academic year-2</a></li>
-                            <li><a href="academic-year-3.html">Academic year-3</a></li>
-                            <li><a href="academic-year-4.html">Academic year-4</a></li>
-                            
-                        </ul>
-                    </li>
-                    <li><a href="timetable.html">Time Table</a></li>
-                    <li><a href="teachers.html">Lecturers</a>
-                    <!--
-                        <ul>
-                            <li><a href="services.html">Services</a></li>
-                            <li><a href="our-team.html">Our Team</a></li>
-                            <li><a href="team-single.html">Team Single</a></li>
-                            <li><a href="faq.html">FAQ</a></li>
-                            <li><a href="javascript:void(0)">Others</a>
-                                <ul>
-                                    <li><a href="appointment.html">Book Appoinment</a></li>
-                                    <li><a href="pricing.html">Pricing</a></li>
-                                    <li><a href="tables.html">Tables</a></li>
-                                    <li><a href="tabs-and-accordions.html">Tabs and Accordions</a></li>
-                                    <li><a href="404-page.html">Error 404</a></li>
-                                    <li><a href="coming-soon.html">Comingsoon</a></li>
-                                </ul>
+                 
+                    <!-- Menu Area -->
+                    <ul class="navbar-nav" id="nav">
+                        <li><a href="index02.php">Home</a></li>
+                        <li><a href="about.html">About</a>
+                            <ul>
+                                <li><a href="our-faculty.html">Our Faculty</a></li>
+                                <li><a href="lab-equipments.html">Lab and Equipments</a></li>
+                                <li><a href="about.html">About Us</a></li>
+                            </ul>
                             </li>
-                        </ul>
--->
-                    </li>
-                    <li><a href="activities.html">Activities and events</a></li>
-                    <li><a href="blog-grid.html">Blogs</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
-                </ul>
+                        <li><a href="curriculum.html">Curriculum</a>
+                            <ul>
+                                <li><a href="academic-year-1.html">Academic year-1</a></li>
+                                <li><a href="academic-year-2.html">Academic year-2</a></li>
+                                <li><a href="academic-year-3.html">Academic year-3</a></li>
+                                <li><a href="academic-year-4.html">Academic year-4</a></li>
+                                
+                            </ul>
+                        </li>
+                        <li><a href="timetable.html">Time Table</a></li>
+                        <li><a href="teachers.html">Lecturers</a>
+                        <!--
+                            <ul>
+                                <li><a href="services.html">Services</a></li>
+                                <li><a href="our-team.html">Our Team</a></li>
+                                <li><a href="team-single.html">Team Single</a></li>
+                                <li><a href="faq.html">FAQ</a></li>
+                                <li><a href="javascript:void(0)">Others</a>
+                                    <ul>
+                                        <li><a href="appointment.html">Book Appoinment</a></li>
+                                        <li><a href="pricing.html">Pricing</a></li>
+                                        <li><a href="tables.html">Tables</a></li>
+                                        <li><a href="tabs-and-accordions.html">Tabs and Accordions</a></li>
+                                        <li><a href="404-page.html">Error 404</a></li>
+                                        <li><a href="coming-soon.html">Comingsoon</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+    -->
+                        </li>
+                        <li><a href="activities.html">Activities and events</a></li>
+                        <li><a href="blog-grid.html">Blogs</a></li>
+                        <li><a href="contact.html">Contact Us</a></li>
+                    </ul>
+                 
+                 
                 <!-- End Menu Area -->
                 <!-- Start Atribute Navigation -->
-                    <div class="attr-nav sm-no-margin sm-margin-40px-right ml-auto no-margin-right">
-                        <ul class="search">
-                            <li class="search"><a href="javascript:void(0)"><i class="fas fa-search font-size18 margin-10px-top sm-no-margin-top"></i></a></li>
-                        </ul>
-                        <ul class="top-nav-area border-left sm-no-border">
-                            <li class="dropdown sm-no-margin-right">
-                                <a href="#appointment" class="butn appointment">
-                                    <i class="far fa-calendar-plus font-size22 margin-5px-right sm-no-margin-right vertical-align-middle"></i> <span class="alt-font vertical-align-middle sm-display-none">Enquire now</span>
-                                </a>
-                            </li>
-                        </ul>
+                    <div class="attr-nav sm-no-margin sm-margin-40px-right ml-auto no-margin-right" style="background-color:white">
+                        
+                            <ul class="search">
+                                <li class="search"><a href="javascript:void(0)"><i class="fas fa-search font-size18 margin-10px-top sm-no-margin-top"></i></a></li>
+                            </ul>
+                            <ul class="top-nav-area border-left sm-no-border">
+                                <li class="dropdown sm-no-margin-right">
+                                    <a href="#appointment" class="butn appointment">
+                                        <i class="far fa-calendar-plus font-size22 margin-5px-right sm-no-margin-right vertical-align-middle"></i> <span class="alt-font vertical-align-middle sm-display-none">Enquire now</span>
+                                    </a>
+                                </li>
+                            </ul>
+                           
                     </div>
+                  
                
                 <!-- End Atribute Navigation -->
 
